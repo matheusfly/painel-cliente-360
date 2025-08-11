@@ -84,7 +84,7 @@ graph TD
     style DP fill:#31331c,stroke:#BDB58A,stroke-width:1px
 ```
 
-### Component Breakdown
+### Detalhamento de Componentes
 
 | Componente                            | Diretório             | Responsabilidade                                                                                                   |
 | ------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
